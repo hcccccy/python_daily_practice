@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3110ed8b-44e3-493e-87ce-151208079556" name="Default Changelist" comment="" />
+    <list default="true" id="3110ed8b-44e3-493e-87ce-151208079556" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_practise/for_nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_practise/for_nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_practise/list_get_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_practise/list_get_sum.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2RQrxlPRRSFM5bH0WpdGa84cFLl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +51,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.list_get_sum">
+    <configuration name="for_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="github_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/for_nums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="list_get_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="github_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +97,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.list_get_sum" />
+        <item itemvalue="Python.for_nums" />
       </list>
     </recent_temporary>
   </component>
@@ -96,40 +124,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1687194569302">
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1687259141472">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687194569302" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1687194569302">
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687259141472" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1687259141472">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687194569302" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1687194569302">
+    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687259141472" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1687259141472">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687194569302" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1687194569302">
+    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687259141472" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1687259141472">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687194569302" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1687194115914">
+    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687259141472" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1687200886536">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687194115914" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1687194115914">
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886536" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1687200886535">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687194115914" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1687194115914">
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886535" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1687200886535">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687194115914" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1687194115914">
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886535" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1687200886535">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687194115914" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886535" />
     <state x="837" y="429" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1687194114778">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
