@@ -3,7 +3,7 @@
 
 """
 Project: github_python
-File: for_nums.py
+File: 1,for_nums.py
 Author: hccccccy
 Date:2023/6/20 02:30
 """

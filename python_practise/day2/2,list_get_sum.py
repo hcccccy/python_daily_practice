@@ -3,10 +3,13 @@
 
 """
 Project: github_python
-File: list_get_sum.py
+File: 2,list_get_sum.py
 Author: hccccccy
 Date:2023/6/20 00:50
 """
+
+# 求列表中所有项的和
+
 from functools import reduce
 
 list1 = [1, 2, 1, 3]
@@ -66,3 +69,7 @@ while j < len(list1):
     total2 += list1[j]
     j += 1
 print(total2)
+
+# 直接sum(可迭代对象,总数再加上这个数字)
+print(sum(list1, 1))
+# -->8

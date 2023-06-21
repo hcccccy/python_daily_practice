@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3110ed8b-44e3-493e-87ce-151208079556" name="Default Changelist" comment="" />
+    <list default="true" id="3110ed8b-44e3-493e-87ce-151208079556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_practise/day1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day2/square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day3/circle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day3/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day3/get_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day3/sum_nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_practise/for_nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_practise/day1/1,for_nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_practise/list_get_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_practise/day2/2,list_get_sum.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +48,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2RQrxlPRRSFM5bH0WpdGa84cFLl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,8 +60,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.list_get_sum">
-    <configuration name="for_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\桌面\github_python\python_practise\day3" />
+      <recent name="F:\桌面\github_python\python_practise\day2" />
+      <recent name="F:\桌面\github_python\python_practise\day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.get_prime">
+    <configuration name="2,list_get_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="github_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/for_nums.py" />
+      <option name="SCRIPT_NAME" value="F:\桌面\github_python\python_practise\day2\2,list_get_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +89,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_get_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="circle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="github_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day3/circle_area.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="github_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day3/factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="github_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day3/get_prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="github_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/list_get_sum.py" />
+      <option name="SCRIPT_NAME" value="F:\桌面\github_python\python_practise\day3\sum_nums.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,8 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.list_get_sum" />
-        <item itemvalue="Python.for_nums" />
+        <item itemvalue="Python.get_prime" />
+        <item itemvalue="Python.circle_area" />
+        <item itemvalue="Python.factorial" />
+        <item itemvalue="Python.sum_nums (1)" />
+        <item itemvalue="Python.2,list_get_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -122,41 +209,49 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1687259380641">
+    <state x="1574" y="507" key="#xdebugger.evaluate" timestamp="1687359400226">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687259380641" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1687259380640">
+    <state x="1574" y="507" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1687359400226" />
+    <state width="2539" height="335" key="GridCell.Tab.0.bottom" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687259380640" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1687259380640">
+    <state width="2539" height="335" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.0.center" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687259380640" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1687259380640">
+    <state width="2539" height="335" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.0.left" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687259380640" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1687200886536">
+    <state width="2539" height="335" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.0.right" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886536" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1687200886535">
+    <state width="2539" height="335" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.1.bottom" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886535" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1687200886535">
+    <state width="2539" height="335" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.1.center" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886535" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1687200886535">
+    <state width="2539" height="335" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.1.left" timestamp="1687360496990">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687200886535" />
+    <state width="2539" height="335" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
+    <state width="2539" height="335" key="GridCell.Tab.1.right" timestamp="1687360496990">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="335" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1687360496990" />
     <state x="837" y="429" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1687194114778">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="837" y="429" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1687194114778" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1687357780683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1687357780683" />
   </component>
 </project>
