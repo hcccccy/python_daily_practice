@@ -20,7 +20,7 @@ def get_factorial(n):
     return fac1
 
 
-print(get_factorial(5))
+# print(get_factorial(5))
 
 """方法2 while循环"""
 
@@ -33,7 +33,7 @@ def get_factorial2(m):
     return fac2
 
 
-print(get_factorial2(5))
+# print(get_factorial2(5))
 
 """方法3 递归"""
 
@@ -46,7 +46,16 @@ def get_factorial3(o):
     return fac3
 
 
-print(get_factorial3(5))
+print(get_factorial3(4))
+
+
+def get_factorial4(p):
+    if p == 1:
+        return 1
+    return p * get_factorial4(p - 1)
+
+
+print(get_factorial4(4))
 
 """
 拓展
@@ -54,4 +63,4 @@ python3 range返回对象而不是列表 要用list迭代出数据
 """
 # 创建一个1-20的列表
 
-lis = list(range(21))
+# lis = list(range(21))
