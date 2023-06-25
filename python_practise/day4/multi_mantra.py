@@ -27,10 +27,10 @@ def get_mantra(n):
     for i in range(1, n + 1):
         print('\n')
         for j in range(1, i + 1):
-            print(f'{i}*{j}={i * j}', end=' ')
+            print(f'{j}*{i}={i * j}', end=' ')
 
 
-# get_mantra(7)
+get_mantra(7)
 
 
 # 递归实现
@@ -45,4 +45,4 @@ def get_mantra2(m):
         print()
 
 
-get_mantra2(9)
+# get_mantra2(9)
