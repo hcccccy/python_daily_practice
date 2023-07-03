@@ -20,56 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3110ed8b-44e3-493e-87ce-151208079556" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/dict_keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/find_mid_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/lis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/output_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/hello_world_again.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/列表/列表去重.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/字符操作/字符切片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/字符操作/字符拼接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/字符操作/字符方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/挑战/挑战1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/Json_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/OOOSSS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/Random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/class_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/class_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/class_electriccar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/class_ice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/class_res.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/class_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/exam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/favorite_languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/file_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/guest_book.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/pi_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/pi_million_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/pi_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/privileges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/programming.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/test_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/write_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/列表推导式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/引用机制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/排列组合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/石头剪刀布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/练习2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/综合练习_元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/综合练习_列表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/综合练习_字典.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/综合练习_字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/练习/综合练习_集合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/转义符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/practice/输入输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/prime_1-100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_practise/day9/str_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day10/4 high level func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practise/day10/review2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,8 +64,8 @@
       <recent name="F:\桌面\github_python\python_practise\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.find_mid_num">
-    <configuration name="dict_keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4 high level func">
+    <configuration name="4 high level func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="github_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day9/dict_keys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day10/4 high level func.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str_reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="review2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="github_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day9/str_reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/day10/review2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4 high level func" />
+        <item itemvalue="Python.review2" />
         <item itemvalue="Python.find_mid_num" />
         <item itemvalue="Python.prime_1-100" />
         <item itemvalue="Python.output_odd" />
-        <item itemvalue="Python.dict_keys" />
-        <item itemvalue="Python.str_reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -265,38 +218,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1688222978707" />
-    <state width="2539" height="411" key="GridCell.Tab.0.bottom" timestamp="1688227849458">
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom" timestamp="1688398496600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="411" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1688227849458" />
-    <state width="2539" height="411" key="GridCell.Tab.0.center" timestamp="1688227849457">
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1688398496600" />
+    <state width="2539" height="413" key="GridCell.Tab.0.center" timestamp="1688398496600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="411" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1688227849457" />
-    <state width="2539" height="411" key="GridCell.Tab.0.left" timestamp="1688227849457">
+    <state width="2539" height="413" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1688398496600" />
+    <state width="2539" height="413" key="GridCell.Tab.0.left" timestamp="1688398496600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="411" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1688227849457" />
-    <state width="2539" height="411" key="GridCell.Tab.0.right" timestamp="1688227849458">
+    <state width="2539" height="413" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1688398496600" />
+    <state width="2539" height="413" key="GridCell.Tab.0.right" timestamp="1688398496600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="411" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1688227849458" />
-    <state width="2539" height="335" key="GridCell.Tab.1.bottom" timestamp="1688227126849">
+    <state width="2539" height="413" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1688398496600" />
+    <state width="2539" height="335" key="GridCell.Tab.1.bottom" timestamp="1688228014232">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="335" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1688227126849" />
-    <state width="2539" height="335" key="GridCell.Tab.1.center" timestamp="1688227126848">
+    <state width="2539" height="335" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1688228014232" />
+    <state width="2539" height="335" key="GridCell.Tab.1.center" timestamp="1688228014232">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="335" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1688227126848" />
-    <state width="2539" height="335" key="GridCell.Tab.1.left" timestamp="1688227126848">
+    <state width="2539" height="335" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1688228014232" />
+    <state width="2539" height="335" key="GridCell.Tab.1.left" timestamp="1688228014232">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="335" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1688227126848" />
-    <state width="2539" height="335" key="GridCell.Tab.1.right" timestamp="1688227126849">
+    <state width="2539" height="335" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1688228014232" />
+    <state width="2539" height="335" key="GridCell.Tab.1.right" timestamp="1688228014232">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="335" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1688227126849" />
+    <state width="2539" height="335" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1688228014232" />
     <state x="1126" y="401" key="RollbackChangesDialog" timestamp="1687451418760">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
